@@ -22,3 +22,12 @@ Primary.args = {
   variant: 'contained',
   children: 'test',
 };
+
+Primary.story = {
+  parameters: {
+    design: {
+      type: 'figma',
+      url: 'https://www.figma.com/file/LbcvMJxDtshDmYtdyfJfkA72/Button-Secondary',
+    },
+  },
+};
