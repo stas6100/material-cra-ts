@@ -20,7 +20,7 @@ export const Primary = Template.bind({});
 // More on args: https://storybook.js.org/docs/react/writing-stories/args
 Primary.args = {
   variant: 'contained',
-  children: 'test',
+  children: 'test12345',
 };
 
 Primary.story = {
